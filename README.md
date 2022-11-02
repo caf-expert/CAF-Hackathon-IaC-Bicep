@@ -50,7 +50,7 @@ The challenges build upon each other incrementally. You will start by creating a
 - Challenge 6: [Bicep Modules](./challenges/challenge6.md)
 	- Learn how to seperate your deployments into modules
 
-- Challenge 6: [Configure a Linux Server](./challenges/challenge7.md)
+- Challenge 7: [Configure a Linux Server](./challenges/challenge7.md)
 	- Learn how to use custom scripts for configuration of servers
 
 
