@@ -25,7 +25,7 @@ You will want to prepare your machine with the following to help complete the Ch
 
 ## Description
 
-Develop a Biceo deployment that accepts a generic input value and returns it as an output value.
+Develop a Bicep deployment that accepts a generic input value and returns it as an output value.
 
 Deploy it using the Azure CLI
 Observe the deployment in the Azure Portal
